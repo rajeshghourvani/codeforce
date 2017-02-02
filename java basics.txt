@@ -1,0 +1,21 @@
+source code management:subversion
+build tools:Ant
+
+
+
+classes and objects
+
+
+classes:collection of objects(which doesnt exist in real world)
+object:which exist in real world(it has state and behaviour)
+
+
+oops:
+
+1)inheritance-Accessing properties from one class to another class(parent->child releation ship)
+
+2)polymorphism(poly+morphism=many forms)-one entity shows multiple behaviours
+3)encapsuation-wrapping of data in a form of a single unit
+4)abstraction-showing the required content and hiding all other implementations is called abstraction
+
+
