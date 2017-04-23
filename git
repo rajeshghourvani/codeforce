@@ -1,0 +1,15 @@
+git config-sets configuration values for user name,email,gpg key,preferred diff algorithm, file formats and more
+
+git init-initializes a git repository- creates the initial '.git' directory in a
+new or in an existing project
+
+git clone - creating a working copy of a local repository git clone /pah/to/repository
+for a remote server, use: git clone username@host: path/to/repositoty
+
+
+git add - to add one or more files to staging(index)
+
+git commit - commit changes to head(but not yet to the remote repository):wq
+
+
+

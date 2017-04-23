@@ -1,0 +1,38 @@
+git config - configure the author name and email address to be used with commits
+
+git init - create a new local repository git init
+
+git checkout - create a working copy of a local repository
+
+git add - add one or more files to staging(index)
+
+git commit - commit changes to head (but not yet to the remote repository)
+
+git commit -m - commit changes to head ( but not yet to the remote repository)
+
+
+git commit -a = commit any files you've added with git add, and also commit any files you've changed since then
+
+
+push =  send changes to the master branch of your remote repository
+
+git push origin master - send changes to the master branch of your remote repository
+
+git status = list the files you've changed and those you still need to add or commit
+
+git remote add origin = if you haven't connected your local repository to a remote server, add the serer to be able to push to it
+
+git remote -v = list all recently configured remote repositories
+
+git remote -v = list all currently configured remote repositories
+
+
+git checkout - create a new branch and switch to it
+
+git branch = list all the branches in your repo, and also tell you what branch you're currently in
+
+git branch - d = delete the feature branch
+
+git push origin = push the branch to your remote repository, so others can use it
+
+git push -- all origin =push all branches to your remote repository
