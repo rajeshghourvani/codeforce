@@ -2,6 +2,8 @@ Ansible is a radically simple it automation engine that automates cloud provisio
 
 
 ansible is a radically simple it automation engine that automates cloud provisioning, configuration management, application deplyment, intra-service and many other it needs
--it's mainly used to deploy application using ssh without any downtime
+-it's mainly used to deploy application using ssh without 
 
 
+hardwork always pay u
+utilize it
